@@ -1,2 +1,2 @@
 # Repo1MT1
-Partoal test only
+Partial test only
